@@ -1,5 +1,19 @@
 # Double-Wishbone-Suspension-System-Analysis
-This is Design and Analysis based project. we designed double wishbone suspenstion system for sport car. Then, we analysed structural and Modal analysis by using Ansys
+This is Design and Analysis based project. we designed double wishbone suspenstion system for sport car. Then, we analysed structural and Modal analysis by using Ansys.
+We design the 3D model Using Solidworks.
+
+### Highlightes of the Project
+
+-   Design the Modle Phase: Reserch the General dimentions for the sport car suspension systenm and modal the 3D modal.
+   
+-   Force Identifying Phase: Reserch about general forces actiong on the sports car when the driving and calculated(Reference vehicle:Audi r8)-This phase also clearly mention in report. 
+   
+-   Material Selection Phase: Clearly mention in report below according to material properties.
+   
+-   Analysis Phase: We use two type of analysis methods. They are\
+                       - Static Structural Analysis\
+                       - Modal Analysis
+
 
 Gooogle Drive Link For Project File:
 https://drive.google.com/drive/folders/1ZsCQMnEJSwfJmQMRE5CcriFxfP8GPpg7?usp=sharing
